@@ -1,0 +1,19 @@
+@media(max-width:912px){
+    .form_left_content {
+        padding: 20px;
+    }
+    .form_right_content {
+        padding: 30px 20px;
+    }
+}
+@media(max-width:757px){
+    .height {
+        text-align: center;
+    }
+    .height h3 {
+        margin-bottom: 20px;
+    }
+    .height span {
+        margin: auto;
+    }
+}

@@ -1,0 +1,61 @@
+@media (max-width:912px){
+    .what_i_do_left_content {
+        padding: 70px;
+    }
+    .what_i_do_right_content {
+        padding: 70px;
+    }
+    .what_i_do_left_content h3 {
+        font-size: 20px;
+    }
+    .what_i_do_left_content h1 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .btn_talk {
+        padding: 10px 20px;
+    }
+    .what_i_do_right_content h1 {
+        font-size: 20px;
+    }
+    .what_i_do_right_content p {
+        font-size: 12px;
+    }
+}
+@media (max-width:575px){
+    .newsletter_background h1 {
+        font-size: 25px;
+    }
+    .testimonial_top_content h1 {
+        font-size: 40px;
+    }
+    .newsletter_content h1 {
+        font-size: 20px;
+    }
+    .newsletter_content {
+        padding: 30px 20px;
+    }
+    .newsletter_background {
+        padding: 20px;
+    }
+}
+@media (max-width:500px){
+    .work h3 {
+        font-size: 20px;
+    }
+    .work h1 {
+        font-size: 25px;
+    }
+    .newsletter_background h1 {
+        font-size: 20px;
+    }
+    .testimonial_top_content h1 {
+        font-size: 30px;
+    }
+    .lets_talk_content h1 {
+        font-size: 25px;
+    }
+    .lets_talk_content h3 {
+        font-size: 20px;
+    }
+}

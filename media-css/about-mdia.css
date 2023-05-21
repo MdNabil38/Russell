@@ -1,0 +1,27 @@
+@media(max-width:912px){
+    .work_left_content p {
+        width: 75%;
+    }
+    .work_right_content {
+        padding: 80px 30px;
+    }
+}
+@media(max-width:767px){
+    .feature_content h1 {
+        font-size: 40px;
+    }
+}
+@media(max-width:475px){
+    .feature_content h1 {
+        font-size: 30px;
+    }
+    .work_right_content {
+        padding: 70px 35px;
+    }
+}
+@media(max-width:320px){
+    .work_right_content h1 {
+        font-size: 35px;
+    }
+}
+
